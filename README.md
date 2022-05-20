@@ -1,2 +1,2 @@
 # mlops_practice
-HW for mlops-zoomcamp cource
+Homeworks for [mlops-zoomcamp cource](https://github.com/DataTalksClub/mlops-zoomcamp).
